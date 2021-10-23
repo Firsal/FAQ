@@ -1,11 +1,36 @@
 # info
+# Горячие клавиши
+#### Выделить все
+    Ctrl+a
+#### Копировать
+    Ctrl+C
+#### Вставить
+    Ctrl+V
+#### Сохранить
+    Ctrl+S
+#### Вырезать
+    Ctrl+X
+#### Отменить
+    Ctrl+Z
 # Работа с git
 ### Скачать проект
-git clone <URL>
+    ```bash
+        git clone <URL>
+    ```
 ### Учесть все файлы:
-git add .
+    ```bash
+        git add .
+    ```
 ### Сохранить коммит:
-git commit -m "...
+    ```bash
+        git commit -m "..."
+    ```
 ### Отправка на облако:
-git push
-
+    ```bash
+        git push
+    ```
+# Ссылки:
+### Git
+[git-scm.com](https://git-scm.com/)
+### VS Code
+[Visual Studio Code](https://code.visualstudio.com/)
