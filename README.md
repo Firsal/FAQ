@@ -38,5 +38,3 @@
 [git-scm.com](https://git-scm.com/)
 ### VS Code
 [Visual Studio Code](https://code.visualstudio.com/)
-### Rick Roll
-    [LOL](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
